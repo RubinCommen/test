@@ -3,3 +3,4 @@ master
 branch1
 unbelievable+dev
 dev+master
+master
